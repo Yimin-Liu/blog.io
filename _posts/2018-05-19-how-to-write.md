@@ -1,6 +1,6 @@
 ---
 layout: post
-title:今天是博客更新的第一天，内容和代码今后都在这个博客里面有
+title:今天是博客更新的第一天，内容和代码今后都在这个博客里面更新
 date: 2018-5-19
 categories: blog
 tags: [博客,代码]
