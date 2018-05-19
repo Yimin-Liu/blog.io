@@ -6,6 +6,7 @@ header-img: "img/green.jpg"
 ---
 
 My name is liuyimin,I graduated from Hefei University of Technology and my main research direction is computer vision.
+I will share some learning content and code in here.
 
 
 
