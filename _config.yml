@@ -2,7 +2,7 @@
 title: 一敏的博客 # 你的博客名字，可以定义修订
 header-img: "img/green.jpg"
 tagline: "cn"  
-description: "这是我的博客，我来自合肥工业大学"  # 一句话描述你的博客
+description: "这是我的博客，博客中会介绍一些有关CV的内容，以及我所做的工作。"  # 一句话描述你的博客
 baseurl: ""
 url: "http://Yimin-Liu.github.io"  # 此处填写你的博客地址 
 
