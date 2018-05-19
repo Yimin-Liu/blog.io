@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-description: "我的名字叫刘一敏，来自合肥工业大学 " 
+description: "自我介绍" 
 header-img: "img/green.jpg"
 ---
 
