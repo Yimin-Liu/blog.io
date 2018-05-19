@@ -5,7 +5,7 @@ description: "自我介绍"
 header-img: "img/green.jpg"
 ---
 
-这一页填写你的自我介绍。About
+My name is liuyimin,I graduated from Hefei University of Technology and my main research direction is computer vision.
 
 
 
