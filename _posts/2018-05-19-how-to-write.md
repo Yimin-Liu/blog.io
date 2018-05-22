@@ -1,6 +1,6 @@
 ---
 layout: post
-title:how to write
+title:how to write code
 date: 2018-5-19
 categories: blog
 tags: [博客,代码]
