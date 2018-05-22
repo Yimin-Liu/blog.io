@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 《笨方法学写作》课程重大升级，这一次彻底学会写作
+title: 行人再识别研究
 date: 2018-12-31
 categories: blog
-tags: [课程,写作]
-description: 读书是一项「对重要内容进行提炼的工序」。
+tags: [深度学习,卷积神经网络]
+description: 加油和努力
 ---
 
 什么是笨方法？笨方法就是用正确的方法做正确的事。
