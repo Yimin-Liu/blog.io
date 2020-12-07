@@ -1,0 +1,113 @@
+I"�<h2 id="本页使用方法">本页使用方法</h2>
+
+<ol>
+  <li>在下面选一个你喜欢的词</li>
+  <li>点击它</li>
+  <li>相关的文章会「唰」地一声跳到页面顶端</li>
+  <li>马上试试？</li>
+</ol>
+
+<h2 id="基因列表">基因列表</h2>
+
+<div id="tag_cloud">
+
+<a href="#读书" title="读书" rel="1">读书</a>
+
+<a href="#卡片" title="卡片" rel="1">卡片</a>
+
+<a href="#Markdown" title="Markdown" rel="1">Markdown</a>
+
+<a href="#工具" title="工具" rel="1">工具</a>
+
+<a href="#学习" title="学习" rel="1">学习</a>
+
+<a href="#深度学习，行人再识别" title="深度学习，行人再识别" rel="1">深度学习，行人再识别</a>
+
+<a href="#深度学习" title="深度学习" rel="1">深度学习</a>
+
+<a href="#卷积神经网络" title="卷积神经网络" rel="1">卷积神经网络</a>
+
+</div>
+
+<ul class="listing">
+
+  <li class="listing-seperator" id="读书">读书</li>
+
+  <li class="listing-item">
+  <time datetime="2018-05-21">2018-05-21</time>
+  <a href="/blog/2018/05/21/firstclass/" title="《风格感觉》精读指南">《风格感觉》精读指南</a>
+  </li>
+
+
+  <li class="listing-seperator" id="卡片">卡片</li>
+
+  <li class="listing-item">
+  <time datetime="2018-05-21">2018-05-21</time>
+  <a href="/blog/2018/05/21/firstclass/" title="《风格感觉》精读指南">《风格感觉》精读指南</a>
+  </li>
+
+
+  <li class="listing-seperator" id="Markdown">Markdown</li>
+
+  <li class="listing-item">
+  <time datetime="2018-05-22">2018-05-22</time>
+  <a href="/blog/2018/05/22/markdown/" title="Markdown在线学习工具">Markdown在线学习工具</a>
+  </li>
+
+
+  <li class="listing-seperator" id="工具">工具</li>
+
+  <li class="listing-item">
+  <time datetime="2018-05-22">2018-05-22</time>
+  <a href="/blog/2018/05/22/markdown/" title="Markdown在线学习工具">Markdown在线学习工具</a>
+  </li>
+
+
+  <li class="listing-seperator" id="学习">学习</li>
+
+  <li class="listing-item">
+  <time datetime="2018-05-27">2018-05-27</time>
+  <a href="/blog/2018/05/27/study-advise/" title="学习建议">学习建议</a>
+  </li>
+
+
+  <li class="listing-seperator" id="深度学习，行人再识别">深度学习，行人再识别</li>
+
+  <li class="listing-item">
+  <time datetime="2018-05-27">2018-05-27</time>
+  <a href="/blog/2018/05/27/study-advise/" title="学习建议">学习建议</a>
+  </li>
+
+
+  <li class="listing-seperator" id="深度学习">深度学习</li>
+
+  <li class="listing-item">
+  <time datetime="2018-12-31">2018-12-31</time>
+  <a href="/blog/2018/12/31/how-to-write/" title="行人再识别研究">行人再识别研究</a>
+  </li>
+
+
+  <li class="listing-seperator" id="卷积神经网络">卷积神经网络</li>
+
+  <li class="listing-item">
+  <time datetime="2018-12-31">2018-12-31</time>
+  <a href="/blog/2018/12/31/how-to-write/" title="行人再识别研究">行人再识别研究</a>
+  </li>
+
+
+</ul>
+
+<script src="/media/js/jquery.tagcloud.js" type="text/javascript" charset="utf-8"></script>
+
+<script language="javascript">
+$.fn.tagcloud.defaults = {
+    size: {start: 1, end: 1, unit: 'em'},
+      color: {start: '#f8e0e6', end: '#ff3333'}
+};
+
+$(function () {
+    $('#tag_cloud a').tagcloud();
+});
+</script>
+
+:ET

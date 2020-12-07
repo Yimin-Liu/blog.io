@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>一敏的博客</title>
+    <description>这是我的博客，博客中会介绍一些有关CV的内容，以及我所做的工作。</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Wed, 23 Sep 2020 19:49:31 +0800</pubDate>
+    <lastBuildDate>Wed, 23 Sep 2020 19:49:31 +0800</lastBuildDate>
+    <generator>Jekyll v4.1.1</generator>
+    
+      <item>
+        <title>行人再识别研究</title>
+        <description>&lt;p&gt;什么是笨方法？笨方法就是用正确的方法做正确的事。&lt;/p&gt;
+
+&lt;p&gt;用正确的方法就是用更长时间更认真地去做事。这在他人眼中往往是笨拙的表现——何必去练文笔？我改个标题就能提升阅读量；天天写实在太累，等灵感来了写就好；来不及读书啦，捕捉热点找篇热文洗个稿就能交差了……&lt;/p&gt;
+
+&lt;p&gt;但你记在人生账本的数，岁月总要你去还，你偷工减料做出来的工程，时间会帮你检验。但，你长年累月的锤炼，每个刻印都在成就你，你自己走出来的路，每一步都算数。&lt;/p&gt;
+
+&lt;p&gt;做正确的事是快学慢用。不希望你在初级技能或中级技能上停留过长时间，即教给你快速入门的技巧和诀窍，这当然不是教你走捷径，而是帮助你绕过不必要的长路，尽快进入正确的练习，即使你开始还没有理解这些技巧和诀窍的原理。先快速入门节省大量时间，然后才有可能将大量的时间放在实践中。&lt;/p&gt;
+
+&lt;p&gt;《笨方法学写作》通过设计 52 个练习来精进写作，注重科学理论，更注重实践，提倡「日日不断，拱卒之功，不紧不慢，不疾而速」的学习态度。课程自 2017 年 10 月发布，采取互联网开发产品模式更新，一边快速做出 MVP，一边大量阅读写作书籍，增补升级课程，如此陆续更新 8 个月，52 个习题已初步更新完毕，此时返观当初设计课程大纲，尚有大量的优化空间，于是决定全面升级，更新《笨方法学写作》课程大纲。&lt;/p&gt;
+
+&lt;p&gt;此次课程升级将课程的 52 个写作刻意练习分成五个部分，习题大纲如下：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Prat 0：前言/致写作新手&lt;/li&gt;
+  &lt;li&gt;Prat 1：卡片写作 习题 01~20&lt;/li&gt;
+  &lt;li&gt;Prat 2：快速写作 习题 21~27&lt;/li&gt;
+  &lt;li&gt;Prat 3：修改作品 习题 28~33&lt;/li&gt;
+  &lt;li&gt;Prat 4：写作风格 习题 34~42&lt;/li&gt;
+  &lt;li&gt;Prat 5：写作习惯 习题 42~52&lt;/li&gt;
+  &lt;li&gt;Prat 6：附录：我的写作工具箱 （1~3）&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;卡片写作&quot;&gt;卡片写作&lt;/h2&gt;
+
+&lt;p&gt;卡片写作将卡片的写作训练作为独立章节，扩展了卡片写作的习题范围，卡片写作分为三个部分：1）卡片认知，理解卡片的科学原理；2）卡片实践，立即上手实践卡片写作；3）卡片系统，开发更多卡片的创作功能，搭建专属卡片系统。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://wx1.sinaimg.cn/mw690/617ccc0cgy1frdb4nfoiij21hc0u0q7z.jpg&quot; alt=&quot;&quot; /&gt;　&lt;/p&gt;
+
+&lt;h2 id=&quot;快速写作&quot;&gt;快速写作&lt;/h2&gt;
+
+&lt;p&gt;42 分钟写 1000 字不是神话，快速写作也不是天赋，掌握卡片写作后，你就可以理解：快速写作的实质不是在极短时间完成文章写作过程，而是现在完成文章的构思过程。&lt;/p&gt;
+
+&lt;p&gt;所以，「快速写作」这个章节将教会你在短时间凝聚思维，然后一瞬间爆发出新鲜的想象、感觉、思想与见解，迅速形成卡片组成文章。&lt;/p&gt;
+
+&lt;p&gt;构思先行，先不求完美，先求完成，先不求完善，先求改善；目的在于打破写作畏惧，逼出文章，再改出好文章。&lt;/p&gt;
+
+&lt;h2 id=&quot;修改作品&quot;&gt;修改作品&lt;/h2&gt;
+
+&lt;p&gt;你大概以为写作高手写完文章时是这样一个场景：他在电脑前敲完最后一个字，会将椅子往后一推，打个哈欠，伸伸懒腰，然后站起走去阳台做拉伸运动，但实际状况是，写作高手仍会对照自己的写作检查清单：删除标记语言、避免陈词滥调、少用复杂词汇、多使用平实字词、慎用修饰词……之后，他还会请朋友阅读已完成的作品，接着继续修改。&lt;/p&gt;
+
+&lt;p&gt;在「修改作品」这个章节中，你会学习写作高手修改作品的技巧与价值观，建立自己的文章修改检查清单，让自己的文章越改越好。&lt;/p&gt;
+
+&lt;h2 id=&quot;写作风格&quot;&gt;写作风格&lt;/h2&gt;
+
+&lt;p&gt;年轻作者往往认为风格是文章内容的装饰品，是使淡而无味的菜肴变得可口的调料，所以去学那些矫揉造作、堆砌辞藻、强说愁语的技巧，但如此写出来的文章往往言之无物、华而不实。&lt;/p&gt;
+
+&lt;p&gt;在「写作风格」的章节中，你会理解，真正的风格应是朴实、简洁、清晰、真挚。朴实的语言要做到生动活泼、通俗明快；简洁的句子要做到简明扼要，不应有冗词，不应有赘句；清晰的词语要多用名词和动词，少用形容词和副词；真挚的文章要流畅自然，而非刻意显露自己。&lt;/p&gt;
+
+&lt;p&gt;相信在科学指导与刻意练习下，练成与大师相似的写作风格不再成为问题。&lt;/p&gt;
+
+&lt;h2 id=&quot;小结&quot;&gt;小结&lt;/h2&gt;
+
+&lt;p&gt;如果想诚心学好写作，现在就开始练习吧。不再浅尝则止，不再中途而退，再给自己一次持之以恒学习的机会，马上用笨方法，这一次彻底学会写作。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://wx3.sinaimg.cn/mw690/617ccc0cgy1frdb70bvzwj20zk0zkq5i.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;课程官网：http://www.learnwritingthehardway.cn/&lt;/p&gt;
+</description>
+        <pubDate>Mon, 31 Dec 2018 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/blog/2018/12/31/how-to-write/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2018/12/31/how-to-write/</guid>
+        
+        <category>深度学习</category>
+        
+        <category>卷积神经网络</category>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>学习建议</title>
+        <description>&lt;p&gt;2018年5月27日 20:30:49&lt;/p&gt;
+
+&lt;h1 id=&quot;学习建议&quot;&gt;学习建议&lt;/h1&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;项目建议&quot;&gt;项目建议&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;C语言项目部分只需修改接口，不需修改算法。&lt;/li&gt;
+  &lt;li&gt;汇编部分最好严格按照标准，不然容易引起错误，对能完成指令并行化的尽量完成并行。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;论文建议&quot;&gt;论文建议&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;深度学习的方法可能比较花费时间，需要学习一定的语言和框架完成，可以在完成传统方法的基础上，融合深度学习的特征，经过测度学习的度量方法来优化实验结果。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;在基于深度学习的计算机视觉问题上可能要思考一些问题，来优化改善效率。这些问题涉及到特征，例如更加有区分性的特征，或者改进改变网络来提取到这种区分性的特征，对识别效率是有帮助的，这些数据都会辅助网络识别，优化网络结构。目前，计算机视觉的论文还是以改变网络结构、修改更加适合的LOSS、调节参数这几个方面入手。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;与时俱进，学习最新的论文，现在已经可以看到CVPR2018有关行人再识别的相关论文了，在一些最新的优秀论文基础上，修改网络结构或者设计LOSS，只要有理论依据，对结果有帮助，依然可以发篇优秀的论文。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;学习最新的思想，迁移学习，强化学习，元学习，不同的思想与行人再识别领域之间有思想上的碰撞，依然可以解决一定情况下的问题，这方面可以多去想想。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;框架学习还是要以官网为主，加强实践能力。现在的论文还是以复杂网络框架为主，在服务器上完成一些复杂的任务，比较有优势，也好发论文。&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;论文创新点建议&quot;&gt;论文创新点建议&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;针对行人再识别任务，可以设想任务，没事在纸上画一画，目的解决分类匹配问题，输入一个Probe和一个Gallery，输出一个分类匹配的结果，中间可以自主发挥。中间部分包括网络结构或者LOSS设计，以达到分类目的。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;光流和姿态关节点检测目前也是基于视频的ReID的方向，可以用些生成式网络去学习构造光流或者姿态的能力，端到端的进行学习。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;遮挡也是ReID亟待解决的问题，可以看看去遮挡相关论文，应该会提高性能。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;目前利用GAN在ReID的工作已经趋于饱和，目前GAN在ReID上只有两个作用，一是增加样本，解决过拟合；二是做一个domain transfer（PTGAN,SPGAN）。其他对ReID作用不大。如果想到比较好的创新点，这方面也好发文章。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;性能情况允许的话，目前还是以ResNet-50为基础进行修改。性能还是不错的。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Siamese，三元组，四元组这些问题可以看看，开拓思维，主要还是思想和loss设计。&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+</description>
+        <pubDate>Sun, 27 May 2018 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/blog/2018/05/27/study-advise/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2018/05/27/study-advise/</guid>
+        
+        <category>学习</category>
+        
+        <category>深度学习，行人再识别</category>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Markdown在线学习工具</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://www.zybuluo.com/mdeditor&quot;&gt;Markdown编辑器&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;2018年5月22日 20:30:49&lt;/p&gt;
+&lt;h1 id=&quot;欢迎使用-cmd-markdown-编辑阅读器&quot;&gt;欢迎使用 Cmd Markdown 编辑阅读器&lt;/h1&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;我们理解您需要更便捷更高效的工具记录思想，整理笔记、知识，并将其中承载的价值传播给他人，&lt;strong&gt;Cmd Markdown&lt;/strong&gt; 是我们给出的答案 —— 我们为记录思想和分享知识提供更专业的工具。 您可以使用 Cmd Markdown：&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;ul&gt;
+    &lt;li&gt;整理知识，学习笔记&lt;/li&gt;
+    &lt;li&gt;发布日记，杂文，所见所想&lt;/li&gt;
+    &lt;li&gt;撰写发布技术文稿（代码支持）&lt;/li&gt;
+    &lt;li&gt;撰写发布学术论文（LaTeX 公式支持）&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://www.zybuluo.com/static/img/logo.png&quot; alt=&quot;cmd-markdown-logo&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;除了您现在看到的这个 Cmd Markdown 在线版本，您还可以前往以下网址下载：&lt;/p&gt;
+
+&lt;h3 id=&quot;windowsmaclinux-全平台客户端&quot;&gt;&lt;a href=&quot;https://www.zybuluo.com/cmd/&quot;&gt;Windows/Mac/Linux 全平台客户端&lt;/a&gt;&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;请保留此份 Cmd Markdown 的欢迎稿兼使用说明，如需撰写新稿件，点击顶部工具栏右侧的 &lt;i class=&quot;icon-file&quot;&gt;&lt;/i&gt; &lt;strong&gt;新文稿&lt;/strong&gt; 或者使用快捷键 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Ctrl+Alt+N&lt;/code&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;什么是-markdown&quot;&gt;什么是 Markdown&lt;/h2&gt;
+
+&lt;p&gt;Markdown 是一种方便记忆、书写的纯文本标记语言，用户可以使用这些标记符号以最小的输入代价生成极富表现力的文档：譬如您正在阅读的这份文档。它使用简单的符号标记不同的标题，分割不同的段落，&lt;strong&gt;粗体&lt;/strong&gt; 或者 &lt;em&gt;斜体&lt;/em&gt; 某些文字，更棒的是，它还可以&lt;/p&gt;
+
+&lt;h3 id=&quot;1-制作一份待办事宜-todo-列表&quot;&gt;1. 制作一份待办事宜 &lt;a href=&quot;https://www.zybuluo.com/mdeditor?url=https://www.zybuluo.com/static/editor/md-help.markdown#13-待办事宜-todo-列表&quot;&gt;Todo 列表&lt;/a&gt;&lt;/h3&gt;
+
+&lt;ul class=&quot;task-list&quot;&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;支持以 PDF 格式导出文稿&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;改进 Cmd 渲染算法，使用局部渲染技术提高渲染效率&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; checked=&quot;checked&quot; /&gt;新增 Todo 列表功能&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; checked=&quot;checked&quot; /&gt;修复 LaTex 公式渲染问题&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; checked=&quot;checked&quot; /&gt;新增 LaTex 公式编号功能&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;2-书写一个质能守恒公式&quot;&gt;2. 书写一个质能守恒公式&lt;sup id=&quot;fnref:LaTeX&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:LaTeX&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/h3&gt;
+
+\[E=mc^2\]
+
+&lt;h3 id=&quot;3-高亮一段代码&quot;&gt;3. 高亮一段代码&lt;sup id=&quot;fnref:code&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:code&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/h3&gt;
+
+&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;o&quot;&gt;@&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;requires_authorization&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;SomeClass&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;pass&lt;/span&gt;
+
+&lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;__name__&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;==&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'__main__'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;
+    &lt;span class=&quot;c1&quot;&gt;# A comment
+&lt;/span&gt;    &lt;span class=&quot;k&quot;&gt;print&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;'hello world'&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;4-高效绘制-流程图&quot;&gt;4. 高效绘制 &lt;a href=&quot;https://www.zybuluo.com/mdeditor?url=https://www.zybuluo.com/static/editor/md-help.markdown#7-流程图&quot;&gt;流程图&lt;/a&gt;&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-flow&quot;&gt;st=&amp;gt;start: Start
+op=&amp;gt;operation: Your Operation
+cond=&amp;gt;condition: Yes or No?
+e=&amp;gt;end
+
+st-&amp;gt;op-&amp;gt;cond
+cond(yes)-&amp;gt;e
+cond(no)-&amp;gt;op
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id=&quot;5-高效绘制-序列图&quot;&gt;5. 高效绘制 &lt;a href=&quot;https://www.zybuluo.com/mdeditor?url=https://www.zybuluo.com/static/editor/md-help.markdown#8-序列图&quot;&gt;序列图&lt;/a&gt;&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-seq&quot;&gt;Alice-&amp;gt;Bob: Hello Bob, how are you?
+Note right of Bob: Bob thinks
+Bob--&amp;gt;Alice: I am good thanks!
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id=&quot;6-高效绘制-甘特图&quot;&gt;6. 高效绘制 &lt;a href=&quot;https://www.zybuluo.com/mdeditor?url=https://www.zybuluo.com/static/editor/md-help.markdown#9-甘特图&quot;&gt;甘特图&lt;/a&gt;&lt;/h3&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-gantt&quot;&gt;    title 项目开发流程
+    section 项目确定
+        需求分析       :a1, 2016-06-22, 3d
+        可行性报告     :after a1, 5d
+        概念验证       : 5d
+    section 项目实施
+        概要设计      :2016-07-05  , 5d
+        详细设计      :2016-07-08, 10d
+        编码          :2016-07-15, 10d
+        测试          :2016-07-22, 5d
+    section 发布验收
+        发布: 2d
+        验收: 3d
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id=&quot;7-绘制表格&quot;&gt;7. 绘制表格&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;项目&lt;/th&gt;
+      &lt;th style=&quot;text-align: right&quot;&gt;价格&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;数量&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;计算机&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;$1600&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;5&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;手机&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;$12&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;12&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;管线&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;$1&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;234&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&quot;8-更详细语法说明&quot;&gt;8. 更详细语法说明&lt;/h3&gt;
+
+&lt;p&gt;想要查看更详细的语法说明，可以参考我们准备的 &lt;a href=&quot;https://www.zybuluo.com/mdeditor?url=https://www.zybuluo.com/static/editor/md-help.markdown&quot;&gt;Cmd Markdown 简明语法手册&lt;/a&gt;，进阶用户可以参考 &lt;a href=&quot;https://www.zybuluo.com/mdeditor?url=https://www.zybuluo.com/static/editor/md-help.markdown#cmd-markdown-高阶语法手册&quot;&gt;Cmd Markdown 高阶语法手册&lt;/a&gt; 了解更多高级功能。&lt;/p&gt;
+
+&lt;p&gt;总而言之，不同于其它 &lt;em&gt;所见即所得&lt;/em&gt; 的编辑器：你只需使用键盘专注于书写文本内容，就可以生成印刷级的排版格式，省却在键盘和工具栏之间来回切换，调整内容和格式的麻烦。&lt;strong&gt;Markdown 在流畅的书写和印刷级的阅读体验之间找到了平衡。&lt;/strong&gt; 目前它已经成为世界上最大的技术分享网站 GitHub 和 技术问答网站 StackOverFlow 的御用书写格式。&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;什么是-cmd-markdown&quot;&gt;什么是 Cmd Markdown&lt;/h2&gt;
+
+&lt;p&gt;您可以使用很多工具书写 Markdown，但是 Cmd Markdown 是这个星球上我们已知的、最好的 Markdown 工具——没有之一 ：）因为深信文字的力量，所以我们和你一样，对流畅书写，分享思想和知识，以及阅读体验有极致的追求，我们把对于这些诉求的回应整合在 Cmd Markdown，并且一次，两次，三次，乃至无数次地提升这个工具的体验，最终将它演化成一个 &lt;strong&gt;编辑/发布/阅读&lt;/strong&gt; Markdown 的在线平台——您可以在任何地方，任何系统/设备上管理这里的文字。&lt;/p&gt;
+
+&lt;h3 id=&quot;1-实时同步预览&quot;&gt;1. 实时同步预览&lt;/h3&gt;
+
+&lt;p&gt;我们将 Cmd Markdown 的主界面一分为二，左边为&lt;strong&gt;编辑区&lt;/strong&gt;，右边为&lt;strong&gt;预览区&lt;/strong&gt;，在编辑区的操作会实时地渲染到预览区方便查看最终的版面效果，并且如果你在其中一个区拖动滚动条，我们有一个巧妙的算法把另一个区的滚动条同步到等价的位置，超酷！&lt;/p&gt;
+
+&lt;h3 id=&quot;2-编辑工具栏&quot;&gt;2. 编辑工具栏&lt;/h3&gt;
+
+&lt;p&gt;也许您还是一个 Markdown 语法的新手，在您完全熟悉它之前，我们在 &lt;strong&gt;编辑区&lt;/strong&gt; 的顶部放置了一个如下图所示的工具栏，您可以使用鼠标在工具栏上调整格式，不过我们仍旧鼓励你使用键盘标记格式，提高书写的流畅度。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://www.zybuluo.com/static/img/toolbar-editor.png&quot; alt=&quot;tool-editor&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;3-编辑模式&quot;&gt;3. 编辑模式&lt;/h3&gt;
+
+&lt;p&gt;完全心无旁骛的方式编辑文字：点击 &lt;strong&gt;编辑工具栏&lt;/strong&gt; 最右侧的拉伸按钮或者按下 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Ctrl + M&lt;/code&gt;，将 Cmd Markdown 切换到独立的编辑模式，这是一个极度简洁的写作环境，所有可能会引起分心的元素都已经被挪除，超清爽！&lt;/p&gt;
+
+&lt;h3 id=&quot;4-实时的云端文稿&quot;&gt;4. 实时的云端文稿&lt;/h3&gt;
+
+&lt;p&gt;为了保障数据安全，Cmd Markdown 会将您每一次击键的内容保存至云端，同时在 &lt;strong&gt;编辑工具栏&lt;/strong&gt; 的最右侧提示 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;已保存&lt;/code&gt; 的字样。无需担心浏览器崩溃，机器掉电或者地震，海啸——在编辑的过程中随时关闭浏览器或者机器，下一次回到 Cmd Markdown 的时候继续写作。&lt;/p&gt;
+
+&lt;h3 id=&quot;5-离线模式&quot;&gt;5. 离线模式&lt;/h3&gt;
+
+&lt;p&gt;在网络环境不稳定的情况下记录文字一样很安全！在您写作的时候，如果电脑突然失去网络连接，Cmd Markdown 会智能切换至离线模式，将您后续键入的文字保存在本地，直到网络恢复再将他们传送至云端，即使在网络恢复前关闭浏览器或者电脑，一样没有问题，等到下次开启 Cmd Markdown 的时候，她会提醒您将离线保存的文字传送至云端。简而言之，我们尽最大的努力保障您文字的安全。&lt;/p&gt;
+
+&lt;h3 id=&quot;6-管理工具栏&quot;&gt;6. 管理工具栏&lt;/h3&gt;
+
+&lt;p&gt;为了便于管理您的文稿，在 &lt;strong&gt;预览区&lt;/strong&gt; 的顶部放置了如下所示的 &lt;strong&gt;管理工具栏&lt;/strong&gt;：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://www.zybuluo.com/static/img/toolbar-manager.jpg&quot; alt=&quot;tool-manager&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;通过管理工具栏可以：&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;icon-share&quot;&gt;&lt;/i&gt; 发布：将当前的文稿生成固定链接，在网络上发布，分享
+&lt;i class=&quot;icon-file&quot;&gt;&lt;/i&gt; 新建：开始撰写一篇新的文稿
+&lt;i class=&quot;icon-trash&quot;&gt;&lt;/i&gt; 删除：删除当前的文稿
+&lt;i class=&quot;icon-cloud&quot;&gt;&lt;/i&gt; 导出：将当前的文稿转化为 Markdown 文本或者 Html 格式，并导出到本地
+&lt;i class=&quot;icon-reorder&quot;&gt;&lt;/i&gt; 列表：所有新增和过往的文稿都可以在这里查看、操作
+&lt;i class=&quot;icon-pencil&quot;&gt;&lt;/i&gt; 模式：切换 普通/Vim/Emacs 编辑模式&lt;/p&gt;
+
+&lt;h3 id=&quot;7-阅读工具栏&quot;&gt;7. 阅读工具栏&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://www.zybuluo.com/static/img/toolbar-reader.jpg&quot; alt=&quot;tool-manager&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;通过 &lt;strong&gt;预览区&lt;/strong&gt; 右上角的 &lt;strong&gt;阅读工具栏&lt;/strong&gt;，可以查看当前文稿的目录并增强阅读体验。&lt;/p&gt;
+
+&lt;p&gt;工具栏上的五个图标依次为：&lt;/p&gt;
+
+&lt;p&gt;&lt;i class=&quot;icon-list&quot;&gt;&lt;/i&gt; 目录：快速导航当前文稿的目录结构以跳转到感兴趣的段落
+&lt;i class=&quot;icon-chevron-sign-left&quot;&gt;&lt;/i&gt; 视图：互换左边编辑区和右边预览区的位置
+&lt;i class=&quot;icon-adjust&quot;&gt;&lt;/i&gt; 主题：内置了黑白两种模式的主题，试试 &lt;strong&gt;黑色主题&lt;/strong&gt;，超炫！
+&lt;i class=&quot;icon-desktop&quot;&gt;&lt;/i&gt; 阅读：心无旁骛的阅读模式提供超一流的阅读体验
+&lt;i class=&quot;icon-fullscreen&quot;&gt;&lt;/i&gt; 全屏：简洁，简洁，再简洁，一个完全沉浸式的写作和阅读环境&lt;/p&gt;
+
+&lt;h3 id=&quot;8-阅读模式&quot;&gt;8. 阅读模式&lt;/h3&gt;
+
+&lt;p&gt;在 &lt;strong&gt;阅读工具栏&lt;/strong&gt; 点击 &lt;i class=&quot;icon-desktop&quot;&gt;&lt;/i&gt; 或者按下 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Ctrl+Alt+M&lt;/code&gt; 随即进入独立的阅读模式界面，我们在版面渲染上的每一个细节：字体，字号，行间距，前背景色都倾注了大量的时间，努力提升阅读的体验和品质。&lt;/p&gt;
+
+&lt;h3 id=&quot;9-标签分类和搜索&quot;&gt;9. 标签、分类和搜索&lt;/h3&gt;
+
+&lt;p&gt;在编辑区任意行首位置输入以下格式的文字可以标签当前文档：&lt;/p&gt;
+
+&lt;p&gt;标签： 未分类&lt;/p&gt;
+
+&lt;p&gt;标签以后的文稿在【文件列表】（Ctrl+Alt+F）里会按照标签分类，用户可以同时使用键盘或者鼠标浏览查看，或者在【文件列表】的搜索文本框内搜索标题关键字过滤文稿，如下图所示：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://www.zybuluo.com/static/img/file-list.png&quot; alt=&quot;file-list&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;10-文稿发布和分享&quot;&gt;10. 文稿发布和分享&lt;/h3&gt;
+
+&lt;p&gt;在您使用 Cmd Markdown 记录，创作，整理，阅读文稿的同时，我们不仅希望它是一个有力的工具，更希望您的思想和知识通过这个平台，连同优质的阅读体验，将他们分享给有相同志趣的人，进而鼓励更多的人来到这里记录分享他们的思想和知识，尝试点击 &lt;i class=&quot;icon-share&quot;&gt;&lt;/i&gt; (Ctrl+Alt+P) 发布这份文档给好友吧！&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;再一次感谢您花费时间阅读这份欢迎稿，点击 &lt;i class=&quot;icon-file&quot;&gt;&lt;/i&gt; (Ctrl+Alt+N) 开始撰写新的文稿吧！祝您在这里记录、阅读、分享愉快！&lt;/p&gt;
+
+&lt;p&gt;作者 &lt;a href=&quot;http://weibo.com/ghosert&quot;&gt;@ghosert&lt;/a&gt;   &lt;br /&gt;
+2016 年 07月 07日&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:LaTeX&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;支持 &lt;strong&gt;LaTeX&lt;/strong&gt; 编辑显示支持，例如：$\sum_{i=1}^n a_i=0$， 访问 &lt;a href=&quot;http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference&quot;&gt;MathJax&lt;/a&gt; 参考更多使用方法。 &lt;a href=&quot;#fnref:LaTeX&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:code&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;代码高亮功能支持包括 Java, Python, JavaScript 在内的，&lt;strong&gt;四十一&lt;/strong&gt;种主流编程语言。 &lt;a href=&quot;#fnref:code&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Tue, 22 May 2018 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/blog/2018/05/22/markdown/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2018/05/22/markdown/</guid>
+        
+        <category>Markdown</category>
+        
+        <category>工具</category>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>《风格感觉》精读指南</title>
+        <description>&lt;p&gt;繁体中文版《写作风格的意识》出版比它早近一年，我已精读过两遍，写下大量读书卡片和一篇读后感&lt;a href=&quot;https://book.douban.com/review/8443136/&quot;&gt;《写作风格思考 15 条》&lt;/a&gt; ，简体中文版《风格感觉》出来，第三遍一天读完，姑且写个简易的精读指南吧。&lt;/p&gt;
+
+&lt;h2 id=&quot;精读序言&quot;&gt;精读序言&lt;/h2&gt;
+
+&lt;p&gt;此书精华集中在阳志平老师的序，尤其注意阳志平总结&lt;strong&gt;中西方对古典风格的定义、演变和路线&lt;/strong&gt;。读完此书，可深挖一下篇序提到的推崇古典风格的作家，整理其写作文论，西学为体，中学为用，未尝不可。&lt;/p&gt;
+
+&lt;p&gt;阳老师总结出的写作八原则源自他之前写的《平克写作八原则》，可对比再精读一遍，序中有术语（例如元话语、僵尸名词）暂时看不懂不要紧，可以先看例子，阳老师分别列出好坏两种写法，先着重感受。待全书阅读完毕再回头看这篇序，就会清晰更多。&lt;/p&gt;
+
+&lt;h2 id=&quot;如何精读&quot;&gt;如何精读&lt;/h2&gt;
+&lt;p&gt;全书共六章，前三章讲如何破解好文章，并写出易读易懂的好文章，是写作指南的核心内容；后三章是讲英文的句法与文法，过于技术与繁琐，只适合指导英文写作，不太适合中文，大可略读，所以，此书精读前三章足矣。&lt;/p&gt;
+
+&lt;h3 id=&quot;精读第一章破解好文章&quot;&gt;精读第一章《破解好文章》&lt;/h3&gt;
+
+&lt;p&gt;写作跟炒菜不同，炒菜你可以依着菜谱炒出不错的菜肴，但写作却不能只依靠写作指南写出优秀的文章，写作高手都有各自写作与阅读经历，积累有一份暗默在心，不可明说的写作清单，而这份清单只能由自己构建，不能由他人代劳。&lt;/p&gt;
+
+&lt;p&gt;如何构建清单？平克的建议是对好文章进行逆行工程，破解其写作技巧，他在书中引用三篇英文好文进行破解赏析，示范建立清单。&lt;/p&gt;
+
+&lt;p&gt;中文写作高手大都同意这个观点：从英文世界写作方法，从中文经典体会写作精妙。《风格感觉》三篇破解示范虽道理想通，但语言是英文，个中精妙无法完全察觉，当然可以阅读原版感受，但更建议在实践中参考平克的破解方法，再寻来中文经典私自再解读。&lt;/p&gt;
+
+&lt;p&gt;中文经典建议选择钱钟书的《围城》与张爱玲的《红玫瑰与白玫瑰》，解读完毕之后再寻找相关文学论文对比，发现他人解读与自己解读的差距，以此获得进步。&lt;/p&gt;
+
+&lt;p&gt;最后再推荐王文兴的&lt;a href=&quot;https://book.douban.com/subject/4074680/&quot;&gt;《家变六讲：写作过程回顾》&lt;/a&gt;，此书是作者本人对自己作品的文本细读示范，既是解析也是复盘，对日后你复盘自己的写作，构建写作清单有极大帮助。&lt;/p&gt;
+
+&lt;h3 id=&quot;精读第二章观看世界的窗&quot;&gt;精读第二章《观看世界的窗》&lt;/h3&gt;
+
+&lt;p&gt;此章重点讲述古典风格，古典风格是此书的重中之重，搞懂古典风格，丢掉此书无憾。&lt;/p&gt;
+
+&lt;p&gt;古典风格是什么？是呈现、是告知、是图景，是建议写作者用引导者的身份来面对读者，想象读者就在你面前，你如何用最容易懂的话来让读者清楚明白。&lt;/p&gt;
+
+&lt;p&gt;这道理与演讲一致，TED 掌门人写过一本《演讲的力量》 ，其中提到：「我们喜欢冒险，喜欢去新的地方时有一位博学多识的导游相伴。他会给我们讲解我们以前不知道的事情，引导我们爬出窗外，走进陌生的世界，给我们戴上全新的眼镜，让我们用一种特别的方式去观看寻常的事物。」&lt;/p&gt;
+
+&lt;p&gt;古典写作风格即是将作者视为导游，读者视为观众，将观众带领到一个美丽的新地方.&lt;/p&gt;
+
+&lt;p&gt;译者王烁老师在书中不曾写序，但曾在多处推荐《风格感觉》，力推古典写作风格，例如《马上写》、《写作之难》和《怎样成为合格的写作者》，也写过一本小册子《有效阅读十三篇》，说的也是如何练成古典写作风格的技巧，建议阅读。&lt;/p&gt;
+
+&lt;p&gt;另外，此书是平克致敬《风格要素》的作品，《风格要素》将古典风格总结成四个字：朴实、简洁、清晰、真挚。朴实的语言要做到生动活泼、通俗明快；简洁的句子要做到简明扼要，不应有冗词，不应有赘句；清晰的词语要多用名词和动词，少用形容词和副词；真挚的文章要流畅自然，而非刻意显露自己。读完《风格感觉》，还可以找《风格要素》来阅读，更有助于你精进写作。&lt;/p&gt;
+
+&lt;h3 id=&quot;精读第三章知识的诅咒&quot;&gt;精读第三章《知识的诅咒》&lt;/h3&gt;
+
+&lt;p&gt;为什么科学家的知识很多，却往往不能写出易读的文章？因为这些科学家写作者不具有高阶同理心，难以理解和想象别人未见识过他已司空见惯的事物。这是人类认知最省力原则决定的，你对一种知识越是熟悉，你对于它是如何难于学习的记忆就越少，这就是知识的诅咒。&lt;/p&gt;
+
+&lt;p&gt;了解知识诅咒的形成，掌握方法破除知识的诅咒，你才能写出读者容易读，喜欢读的文章。&lt;/p&gt;
+
+&lt;p&gt;P.S. 译者王佩老师写过一篇《知情的魔咒》 ，曾表示「the curse of knowledge」应翻译成为「知情的魔咒」而不是「知识的诅咒」，但不知为何最终出版时又改成了「知识的诅咒」。个人认为「知情的魔咒」比「知识的诅咒」更加形象易懂，解释成本更低。建议参考阅读王佩的《知情的魔咒》加深理解。&lt;/p&gt;
+
+&lt;h2 id=&quot;小结&quot;&gt;小结&lt;/h2&gt;
+
+&lt;p&gt;写作手册是词语的音符、文字的颜料，所以平克爱读写作手册，我爱读写作手册，所有爱写作的人都爱读写作手册，但要成就写作，多读细读精读还不够，还用亲自将音符写成弹成曲谱，将颜料点缀成画作，成为每个人都可以观赏的艺术。&lt;/p&gt;
+
+&lt;p&gt;-&lt;/p&gt;
+
+&lt;p&gt;想锻炼逻辑与思维，想养成持之以恒的写作习惯？欢迎关注公众号：笨方法学写作，博客 ：www.cnfeat.com&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 21 May 2018 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/blog/2018/05/21/firstclass/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/2018/05/21/firstclass/</guid>
+        
+        <category>读书</category>
+        
+        <category>卡片</category>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+  </channel>
+</rss>
